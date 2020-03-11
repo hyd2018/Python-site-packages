@@ -12,7 +12,7 @@ itsdangerous          1.1.0
 Jinja2                2.11.1
 lxml                  4.5.0
 MarkupSafe            1.1.1
-mysql-connector       2.2.9      d:\ydh\py\sdk\venv\lib\site-packages\mysql-connector-2.2.9\lib
+mysql-connector       2.2.9   
 pip                   20.0.2
 pymongo               3.10.1
 requests              2.23.0
