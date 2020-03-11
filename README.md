@@ -1,4 +1,6 @@
-# Py-SDK  
+# Pythonsite-packages 
+pycharm installed site-packges of Python 3.8.3,which lxml-4.5.5 had compiled in order to use later
+pycharm安装了Python3.8.1的第三方库文件，其中lxml-4.5.0为成功安装后的编译文件，为方便以后使用，特此备份
 backup Python site-packages  
 including：  
 beautifulsoup4        4.8.2  
